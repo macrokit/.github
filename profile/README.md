@@ -22,6 +22,10 @@ The hard part for weak models is multi-step reasoning. The easy part is routing.
 
 Launching publicly in Q3 2026 — see [macrokit.dev](https://macrokit.dev) for the launch essay and quickstart.
 
+## Build on top
+
+Macrokit deliberately keeps curated examples small. Vertical macro libraries live as standalone npm packages you publish yourself — see [`CONTRIBUTING_MACROS.md`](https://github.com/macrokit/core/blob/main/CONTRIBUTING_MACROS.md) and the [community registry](./community) for the listing process.
+
 ## Built by
 
 Built by the team behind [Deakee](https://deakee.com) and a private production system that has been running this architecture in cross-border commerce since early 2026.
