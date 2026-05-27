@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/profile/wordmark.svg" alt="Macrokit" width="320">
+  <img src="./wordmark.svg" alt="Macrokit" width="320">
 </p>
 
 <p align="center">
