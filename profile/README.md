@@ -26,9 +26,11 @@ Launching publicly in Q3 2026 — see [macrokit.dev](https://macrokit.dev) for t
 
 Macrokit deliberately keeps curated examples small. Vertical macro libraries live as standalone npm packages you publish yourself — see [`CONTRIBUTING_MACROS.md`](https://github.com/macrokit/core/blob/main/CONTRIBUTING_MACROS.md) and the [community registry](./community) for the listing process.
 
+The registry is the seed of a broader ecosystem: a place to share and discover the vertical macro libraries authors build, so adopting a new vertical can start from proven macros instead of a cold start.
+
 ## Built by
 
-Built by the team behind [Deakee](https://deakee.com) and a private production system that has been running this architecture in cross-border commerce since early 2026.
+Built by the team behind [Deakee](https://deakee.com) and a private production system that has been running this architecture in operations tooling for users without frontier-API access since early 2026.
 
 ## License
 
