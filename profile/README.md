@@ -18,6 +18,8 @@ Macrokit is a runtime + SDK for shipping LLM applications under cloud-API constr
 
 The hard part for weak models is multi-step reasoning. The easy part is routing. Macrokit pushes the hard part offline so cheap/local models can do the routing reliably.
 
+It's also an **open format for macros** — the deterministic, distilled form of a workflow. A *skill* tells a strong model how to think; a *macro* is the compiled result that runs on weak/local models. Macros can call MCP tools as primitives — Macrokit sits above MCP, not against it.
+
 ## Where it's headed
 
 Launching publicly in Q3 2026 — see [macrokit.dev](https://macrokit.dev) for the launch essay and quickstart.
