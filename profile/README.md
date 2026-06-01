@@ -18,6 +18,8 @@ Macrokit is a runtime + SDK for shipping LLM applications under cloud-API constr
 
 The hard part for weak models is multi-step reasoning. The easy part is routing. Macrokit pushes the hard part offline so cheap/local models can do the routing reliably.
 
+It recapitulates how brains manage the cost of thinking: a slow, expensive *deliberation* path (System 2 — the strong model) compiles repeated reasoning into a fast, cheap *automatic* path (System 1 — the macro), and the distillation gate compiles deliberation into reflex through repetition. A fast cheap reflex and a slow expensive mind, with the reflex carrying the load.
+
 It's also an **open format for macros** — the deterministic, distilled form of a workflow. A *skill* tells a strong model how to think; a *macro* is the compiled result that runs on weak/local models. Macros can call MCP tools as primitives — Macrokit sits above MCP, not against it.
 
 ## Where it's headed
