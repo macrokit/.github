@@ -34,7 +34,7 @@ The registry is the seed of a broader ecosystem: a place to share and discover t
 
 ## Built by
 
-Built by the team behind [Deakee](https://deakee.com) and a private production system that has been running this architecture in operations tooling for users without frontier-API access since early 2026.
+Built on a private production system that has been running this architecture in operations tooling for users without frontier-API access since early 2026.
 
 ## License
 
